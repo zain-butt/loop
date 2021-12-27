@@ -1,3 +1,3 @@
 # Loops
 
-Here is a basic loop that can be repurposed for various use cases.
+Use cases of a loop framework that can be easily repurposed.

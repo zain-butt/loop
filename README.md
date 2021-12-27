@@ -1,4 +1,3 @@
-# loop
-Different use cases for loops
+# Loops
 
-A basic loop that can be repurposed for various use cases.
+Here is a basic loop that can be repurposed for various use cases.
